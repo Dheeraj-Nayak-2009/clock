@@ -1,0 +1,26 @@
+body{
+  height: 100%;
+  padding: 25px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4b9VE_x696Ndu1vozBENwOmq1Qh9HQLIaeQ&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: blur(5px);
+  text-align: center;
+}
+
+.title {
+  color: #fff;
+  padding-top: 50%;
+  font-size: 280%;
+  font-family: Oswald, cursive;
+  width: 100%;
+}
+
+#currentTime{
+  height: 100%;
+  padding-bottom: 100%;
+  color: #fff;
+  font-size: 240%;
+  font-family: Kdam Thmor Pro, cursive;
+  width: 100%;
+}
